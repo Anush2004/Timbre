@@ -8,7 +8,7 @@
 - [Project Presentation](#project-presentation)
 - [Video Demonstration](#video-demonstration)
 - [Requirements](#requirements)
-- (Other)(#other)
+- [Other](#other)
 
 ## Introduction
 
@@ -48,7 +48,7 @@ You can watch a video demonstration of the Timbre app by following this [link](h
 
 To use the Timbre app, you need:
 
-- An Android device running Android 6.0 (Marshmallow) or later.
+- An Android device.
 - Microphone access permission.
 
 ## Other
