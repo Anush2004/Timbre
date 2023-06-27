@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-timbremain-dev-232754-authRole",
+      "UnauthRoleArn": "arn:aws:iam::008162606315:role/amplify-timbremain-dev-232754-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::008162606315:role/amplify-timbremain-dev-232754-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-timbremain-dev-232754-deployment",
+      "UnauthRoleName": "amplify-timbremain-dev-232754-unauthRole",
+      "StackName": "amplify-timbremain-dev-232754",
+      "StackId": "arn:aws:cloudformation:ap-south-1:008162606315:stack/amplify-timbremain-dev-232754/c5eb0540-c748-11ed-8534-0a3c543bcc10",
+      "AmplifyAppId": "dtct4wb49kk80"
+    },
+    "categories": {
+      "auth": {
+        "timbremaineb063ca8": {}
+      },
+      "storage": {
+        "s3friendlyName": {}
+      },
+      "api": {
+        "timbremain": {}
+      }
+    }
+  }
+}
