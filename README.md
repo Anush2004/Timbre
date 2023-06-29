@@ -25,7 +25,7 @@ Timbre is an Android app designed for Docturnal Pvt Ltd that allows users to rec
 The development of Timbre involved the following team members:
 
 - Anush Anand
-  - GitHub: [anush](https://github.com/anushgupta-cse)
+  - GitHub: [anush](https://github.com/Anush2004)
 
 - Mukta Chanda
   - GitHub: [mukta](https://github.com/muktachanda)
